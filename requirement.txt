@@ -1,0 +1,9 @@
+Django==1.11.29
+Flask==1.0
+PyJWT==1.5.3
+Pillow==6.2.0
+SQLAlchemy==1.2.0
+lxml==4.2.1
+paramiko==2.4.0
+Twisted==18.4.0
+numpy==1.16.0
